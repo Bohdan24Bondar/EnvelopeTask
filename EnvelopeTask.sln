@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnvelopeTask", "EnvelopeTask\EnvelopeTask.csproj", "{1AEAD500-0114-4E57-9D8A-17919364F727}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContinueChecker", "..\ContinueCheckerLibrary\ContinueChecker\ContinueChecker.csproj", "{6F652E17-F3F4-4F1F-811D-0917784B6770}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnvelopeTaskLibrary", "EnvelopeTaskLibrary\EnvelopeTaskLibrary.csproj", "{87C91B7F-E4E3-4EA9-9D38-C48F7A07EFC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbericConvertorLibrary", "..\NumbericConvertorLibrary\NumbericConvertorLibrary\NumbericConvertorLibrary.csproj", "{2CE2E84D-5340-4FF3-A52B-85C17B39869B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AEAD500-0114-4E57-9D8A-17919364F727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AEAD500-0114-4E57-9D8A-17919364F727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AEAD500-0114-4E57-9D8A-17919364F727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AEAD500-0114-4E57-9D8A-17919364F727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F652E17-F3F4-4F1F-811D-0917784B6770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F652E17-F3F4-4F1F-811D-0917784B6770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F652E17-F3F4-4F1F-811D-0917784B6770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F652E17-F3F4-4F1F-811D-0917784B6770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C91B7F-E4E3-4EA9-9D38-C48F7A07EFC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C91B7F-E4E3-4EA9-9D38-C48F7A07EFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C91B7F-E4E3-4EA9-9D38-C48F7A07EFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C91B7F-E4E3-4EA9-9D38-C48F7A07EFC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CE2E84D-5340-4FF3-A52B-85C17B39869B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE2E84D-5340-4FF3-A52B-85C17B39869B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE2E84D-5340-4FF3-A52B-85C17B39869B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE2E84D-5340-4FF3-A52B-85C17B39869B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9AA5456-3DC9-42D7-92AA-30C5E97FDB76}
+	EndGlobalSection
+EndGlobal
