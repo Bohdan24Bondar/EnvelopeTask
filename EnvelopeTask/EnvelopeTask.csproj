@@ -43,10 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConsoleController.cs" />
+    <Compile Include="View\ConsoleController.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Viewer.cs" />
+    <Compile Include="View\Viewer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

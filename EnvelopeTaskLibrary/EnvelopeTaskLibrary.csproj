@@ -41,9 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DefaultSettings.cs" />
-    <Compile Include="Envelope.cs" />
-    <Compile Include="EnvelopesAnalyzer.cs" />
+    <Compile Include="Classes\DefaultSettings.cs" />
+    <Compile Include="Classes\Envelope.cs" />
+    <Compile Include="Classes\EnvelopesAnalyzer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
